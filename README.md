@@ -76,6 +76,12 @@ Tauri recommends using VS Code with plugins for Tauri and Rust Analyzer:
 
 ### Build and run
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 Run the application with:
 
 ```bash
