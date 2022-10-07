@@ -2,7 +2,7 @@
 
 This is a tool for practicing a variant of Marlo's Prediction as presented by Tom Matriq on his YouTube channel ([video](https://www.youtube.com/watch?v=Fa84HtYSjsU)).
 
-<img src="/docs/app.png" width="500px" />
+<img src="/docs/app.png" />
 
 ## How it works
 
