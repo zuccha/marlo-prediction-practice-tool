@@ -4,6 +4,13 @@ This is a tool for practicing a variant of Marlo's Prediction as presented by To
 
 <img src="/docs/app.png" />
 
+## Download
+
+Version 1.0.0 is available for:
+
+- [Windows](https://github.com/zuccha/marlo-prediction-practice-tool/releases/download/1.0.0/Marlos-Prediction-Practice-Tool_v1.0.0_x64.msi) (tested on Windows 10)
+- [macOS](https://github.com/zuccha/marlo-prediction-practice-tool/releases/download/1.0.0/Marlos-Prediction-Practice-Tool_v1.0.0_aarch64.dmg) (tested on macOS 12.4, Apple Silicon)
+
 ## How it works
 
 The tool deals cards automatically so that you can practice several random configurations in little time, focusing on identifying the correct way for reaching the prediction card.
