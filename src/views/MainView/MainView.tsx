@@ -334,7 +334,10 @@ const MainView = () => {
             Tutorial video
           </a>
 
-          <a href="https://github.com/zuccha/" target="_blank">
+          <a
+            href="https://github.com/zuccha/marlo-prediction-practice-tool"
+            target="_blank"
+          >
             Source code
           </a>
 
