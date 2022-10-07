@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: center;
+
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+
+  width: 100%;
+  max-width: 1000px;
+
+  padding: 0 16px;
+}
+
+.settings {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+
+  margin-right: 16px;
+}
+
+.settings > * {
+  flex: 1;
+}
+
+.setting {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.setting > *:first-child,
+.stat > *:first-child {
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+.cards-pile-container {
+  flex: 4;
+  min-width: 50px;
+
+  margin-top: 32px;
+  margin-left: 16px;
+}

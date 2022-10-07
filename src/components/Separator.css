@@ -1,0 +1,22 @@
+.separator {
+  display: flex;
+  align-items: center;
+
+  margin: 24px 4px 16px 4px;
+}
+
+.separator-line {
+  flex: 1;
+
+  border-bottom: 1px solid #9d9d9d98;
+}
+
+.separator-text {
+  margin: 0 16px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .separator-line {
+    border-bottom: 1px solid #81818198;
+  }
+}
